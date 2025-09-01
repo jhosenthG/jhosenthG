@@ -14,7 +14,7 @@ Soy un **ingeniero informático** apasionado especializado en desarrollo mobile 
 - 🔧 APIs RESTful y microservicios
 - 🗄️ Bases de datos y arquitecturas escalables
 
-Me apasiona construir aplicaciones robustas, eficientes y escalables que ofrezcan experiencias de usuario excepcionales tanto en dispositivos móviles como en el lado del servidor. Siempre estoy aprendiendo y explorando nuevas tecnologías para crear soluciones de software impactantes y de alta calidad.
+Construyo aplicaciones robusas, eficientes y escalables que ofrecen experiencias de usuario excepcionales tanto en dispositivos móviles como en el lado del servidor. Constantemente aprendo y exploro nuevas tecnologías para crear soluciones de software impactantes y de alta calidad.
 
 ---
 *Creando el futuro una línea de código a la vez* 🚀
