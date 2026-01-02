@@ -1,16 +1,16 @@
 # 👋 ¡Hola, soy Jhosenth!
-## Ingeniero Informático Mobile y Backend
+## Ingeniero Informático
 
-Soy un **ingeniero informático** especializado en desarrollo mobile y backend, con experiencia en:
+Soy un **ingeniero informático** con experiencia en:
 
 ### 📱 Desarrollo Mobile
 - 🚀 **Kotlin** (Android Nativo)
-- ☕ **Java**
+- ☕ **Java** (Refactor Legacy App)
 - 🎯 **Dart** (Flutter para desarrollo multiplataforma)
 
 ### ⚙️ Desarrollo Backend
 - 🐍 **Python** (FastAPI, Flask, Django)
-- ☕ **Java** (Spring Boot)
+- ☕ **Csharp** (.NET)
 - 🔧 APIs RESTful y microservicios
 - 🗄️ Bases de datos y arquitecturas escalables
 
