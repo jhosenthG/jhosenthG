@@ -1,7 +1,7 @@
 # Hi there, I'm Jhosenth 👋 
-## Software Engineer | Mobile & Backend Specialist
+## Software Engineer
 
-¡Hola! Soy un **Ingeniero Informático** apasionado por construir soluciones tecnológicas robustas y escalables. Mi enfoque principal es crear experiencias de usuario excepcionales en aplicaciones móviles y arquitecturas de servidor eficientes.
+¡Hola! Soy un **Ingeniero Informático** dedicado a la arquitectura de software escalable y al desarrollo de experiencias móviles de alto rendimiento. Mi enfoque central es transformar requerimientos complejos en soluciones eficientes, tanto en el dispositivo como en el servidor.
 
 ---
 
@@ -26,13 +26,6 @@
 - 🌐 **Multiplataforma:** Creación de apps ágiles con **Flutter & Dart**.
 - ⚙️ **Backend Architecture:** Diseño de **APIs RESTful** y microservicios usando **FastAPI** y **.NET**, priorizando la escalabilidad y el rendimiento.
 - 🏗️ **Calidad de Software:** Aplicación de arquitecturas limpias (Clean Architecture), patrones de diseño y código mantenible.
-
----
-
-### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de Jhosenth" />
-</p>
 
 ---
 
