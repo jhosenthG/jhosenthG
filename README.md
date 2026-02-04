@@ -1,18 +1,18 @@
-# Hi there, I'm Jhosenth 👋 
-## Software Engineer
+# Jhosenth G 
+## Ingeniero Informatico
 
-¡Hola! Soy un **Ingeniero Informático** dedicado a la arquitectura de software escalable y al desarrollo de experiencias móviles de alto rendimiento. Mi enfoque central es transformar requerimientos complejos en soluciones eficientes, tanto en el dispositivo como en el servidor.
+"¡Hola! Soy **Jhosenth G**, un **ingeniero informático** con amor por la tecnología y una visión de negocios donde el producto siempre es el objetivo. El resto son experimentos por pasión."
 
 ---
 
-### 🚀 Mis Skills
+### Mis Herramientas favoritas
 
-**Mobile Development** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+**Aplicaciones** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & Tools** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+**Backend** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ En qué me enfoco actualmente:
+### En qué me enfoco actualmente:
 
 - 📱 **Desarrollo Mobile Nativo:** Especialista en **Kotlin**, con experiencia transformando y refactorizando aplicaciones Legacy en **Java**.
 - 🌐 **Multiplataforma:** Creación de apps ágiles con **Flutter & Dart**.
@@ -33,4 +33,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhosenthg/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhosenth@gmail.com)
 
-> *Creando el futuro, una línea de código a la vez.* 🚀
+> *Recuerda que no es solo codigo, es un producto con vision*
