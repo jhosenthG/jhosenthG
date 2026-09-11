@@ -12,8 +12,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+**Backend** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,7 +24,7 @@
 
 - 📱 **Desarrollo Mobile Nativo:** Especialista en **Kotlin**, con experiencia transformando y refactorizando aplicaciones Legacy en **Java**.
 - 🌐 **Multiplataforma:** Creación de apps ágiles con **Flutter & Dart**.
-- ⚙️ **Backend Architecture:** Diseño de **APIs RESTful** y microservicios usando **FastAPI** y **.NET**, priorizando la escalabilidad y el rendimiento.
+- ⚙️ **Backend Architecture:** Diseño de **APIs RESTful** y microservicios usando **Spring Boot** y **.NET**, priorizando la escalabilidad y el rendimiento.
 - 🏗️ **Calidad de Software:** Aplicación de arquitecturas limpias (Clean Architecture), patrones de diseño y código mantenible.
 
 ---
